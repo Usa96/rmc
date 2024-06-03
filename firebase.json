@@ -6,6 +6,7 @@
       "**/.*",
       "**/node_modules/**"
     ]
+<<<<<<< HEAD
   },
   "emulators": {
     "hosting": {
@@ -15,5 +16,7 @@
       "enabled": true
     },
     "singleProjectMode": true
+=======
+>>>>>>> db21ee8 (initial commit)
   }
 }

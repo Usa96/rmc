@@ -1,0 +1,17 @@
+.cs {
+  .btn-action {
+    i {
+      color: $darkgreyColor;
+    }
+    background-color: $lightColor;
+    &:hover i {
+      opacity: 0.7;
+    }
+  }
+  mark {
+    color: $lightColor;
+  }
+  a mark {
+    color: $darkColor;
+  }
+}
